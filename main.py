@@ -1,5 +1,12 @@
 '''
+<<<<<<< Updated upstream
 This Project is done by Ranukesh Raj Sah (SID: 210280)
+=======
+NOTE: This Project is done by Ranukesh Raj Sah (SID: 210280)
+Institution : Softwarica college of IT and E-commerce
+Affiliation: Coventry University, UK
+
+>>>>>>> Stashed changes
 '''
 
 
